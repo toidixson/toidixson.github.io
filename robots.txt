@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow:
+Sitemap: https://miracleca2.com/sitemap.xml
